@@ -1,0 +1,842 @@
+ .top-nav {
+     margin: 0px;
+     padding: 0px
+ }
+
+ .logo-style {
+     color: rgba(85, 76, 76, 0.664);
+     font-weight: bold;
+     font-size: 28px;
+     text-transform: uppercase;
+     font-family: Arial, Helvetica, sans-serif;
+     margin-left: 25px;
+     margin-right: 500px;
+
+ }
+
+ .fa-virus {
+     color: red;
+     font-size: 24px;
+ }
+
+ header {
+
+     background-color: rgb(234, 243, 243);
+     margin-top: 0px;
+     margin-bottom: 80px;
+     padding-bottom: 50px;
+     padding-top: 100px;
+ }
+
+ .nav-logo {
+     background-color: rgb(234, 243, 243);
+ }
+
+ #do {
+     border-radius: 50px;
+ }
+
+ .text-head {
+     margin: 50px
+ }
+
+ .h2 {
+     display: inline;
+     font-size: 80px;
+     color: rgb(9, 116, 116);
+     font-weight: 800;
+ }
+
+ .h3 {
+     margin-left: 15px;
+     font-size: 45px;
+     font-weight: 600;
+     color: rgb(182, 107, 119);
+ }
+
+ .h33 {
+     margin-top: 5px;
+     display: inline;
+     font-size: 40px;
+     margin-left: 20px;
+     font-weight: 800;
+     /* font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+ }
+
+ .span1 {
+     display: flex;
+ }
+
+ .how-to-protect-btn {
+
+     border-radius: 30px;
+     padding: 10px;
+     
+
+ }
+
+ .link-for-aboutcovid {
+    margin-left: 50px;
+     font-weight: 700;
+     font-size: 20px;
+ }
+
+ .text-btn {
+     margin-top: 50px;
+     margin-left: 30px;
+ }
+
+ .banner-of-num {
+     margin-top: 50px;
+     display: flex;
+ }
+
+ .text-num {
+
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: 700;
+     font-size: 12px;
+     margin-right: 80px;
+ }
+
+ .number {
+     font-size: 28px;
+     color: gray;
+     font-weight: bold;
+ }
+
+ .last-update {
+
+     font-size: 12px;
+     color: rgb(121, 121, 228);
+ }
+
+ #corona-img {
+
+     width: 100%;
+     height: 80vh;
+ }
+
+ .disease {
+
+     color: rgb(58, 58, 226);
+     font-size: 18px;
+     font-weight: 800;
+     font-family: Arial, Helvetica, sans-serif;
+ }
+
+ .Covid-19-text {
+
+     font-size: 35px;
+     color: rgb(165, 77, 77);
+     font-family: 'Oswald', sans-serif;
+     font-weight: 800;
+     text-transform: uppercase;
+     margin-bottom: 30px;
+ }
+
+ .style-h5 {
+     color: rgb(105, 80, 80);
+     font-weight: bold;
+     margin-bottom: 25px;
+ }
+
+ .p1-style {
+     font-size: 18px;
+     color: rgb(116, 110, 110);
+     font-weight: bold;
+ }
+
+ .p2-style {
+     font-size: 18px;
+     margin-bottom: 25px;
+ }
+
+ .six-Links {
+    
+     box-sizing: border-box;
+
+ }
+
+ .link {
+     display: block;
+     padding: 20px 30px;
+     font-size: 20px;
+     font-weight: bold;
+     border-bottom: 1px solid #e7e8ff;
+     border: 1px solid #e7e8ff;
+     text-decoration: none;
+ }
+
+ .arrow-margin {
+     margin-left: 40px;
+ }
+
+ .sec2 {
+     background-color: rgb(234, 243, 243);
+     margin-top: 50px;
+     padding-top: 50px;
+     padding-bottom: 90px;
+ }
+
+ .style-h2 {
+
+     color: rgb(58, 58, 226);
+     font-size: 18px;
+     font-weight: 800;
+     font-family: Arial, Helvetica, sans-serif;
+     text-align: center;
+ }
+
+
+
+
+ .card {
+     border: 1px solid;
+     border-color: orangered;
+     border-radius: 20px;
+ }
+
+
+
+ .line {
+     height: 5px;
+     background: linear-gradient(to right, blue, rgb(0, 162, 255), blue)
+ }
+
+ .transmission {
+     margin-bottom: 80px;
+ }
+
+ .have-ques {
+
+     border-radius: 20px;
+     padding: 10px;
+     margin-top: 20px;
+     margin-left: 200px; 
+ }
+
+ .question-btn{
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 400px; 
+ }
+
+ 
+ 
+
+ .symptoms {
+    padding-bottom: 150px;
+    padding-top: 150px;
+ }
+
+.img img {
+     border-radius: 50%;
+     width: 40%;
+     position: relative;
+     margin-left: 140px;
+     margin-top: 20px;
+ }
+
+
+ .all {
+     padding: 10px;
+     margin-right: 15px;
+     margin-left: 15px;
+ }
+
+ .fa-exclamation-triangle {
+     font-size: 70px;
+     color: blue;
+ }
+
+
+ .texts .fas {
+
+     color: blue;
+ }
+
+ .sec4 {
+     background-color: rgb(234, 243, 243);
+     padding-top: 100px;
+ }
+
+ .texts {
+     margin-bottom: 80px;
+ }
+
+ .advice-img img {
+     border-radius: 50%;
+     width: 50%;
+     margin-left: 50px;
+ }
+
+ .img-title {
+     text-align: center;
+     font-size: 16px;
+     margin-top: 10px;
+     margin-bottom: 10px;
+     font-weight: bold;
+     color: rgb(70, 70, 138);
+ }
+
+ .advice-text {
+     text-align: center;
+ }
+
+ .wash-btn {
+     display: block;
+     border-radius: 30px;
+     padding: 10px;
+     font-size: 18px;
+     font-weight: bold;
+     margin: auto;
+     color: white;
+     background-color: blue;
+     margin-top: 100px;
+     margin-left: 360px;
+     margin-bottom: 20px;
+ }
+ .link-for-aboutCovid{
+     margin-left: 420px;
+ }
+
+ .long-banner {
+     margin-top: 30px;
+     padding-top: 30px;
+     background-color: #fff;
+ }
+
+ .style-steps {
+
+     margin-bottom: 20px;
+     margin-left: 20px;
+     color: rgb(21, 110, 110);
+     font-weight: bold;
+
+ }
+
+ .stepsss {
+
+     background-color: #fff;
+     border-radius: 40px;
+     padding-bottom: 50px;
+ }
+
+ .steps-img img {
+     width: 100%;
+     height: 100vh;
+     margin-top: 50px;
+     margin-left: 20px;
+ }
+
+ .steps-list {
+     list-style: none;
+ }
+
+ .style-p {
+     display: inline;
+     font-family: Arial, Helvetica, sans-serif;
+
+ }
+
+ .steps-list li {
+     margin-bottom: 35px;
+ }
+
+ .steps-span {
+
+     color: rgb(56, 45, 45);
+     font-size: 19px;
+     font-weight: bold;
+ }
+
+ .correct-icon {
+
+     color: rgb(56, 170, 56);
+     margin-right: 3px;
+ }
+
+ .follow-steps-wash {
+
+     margin-bottom: 80px;
+ }
+
+ .style-h3 {
+     font-size: 30px;
+     color: rgb(46, 41, 41);
+     font-weight: bold;
+     margin-left: 330px;
+     margin-bottom: 20px;
+ }
+
+ .wash-hand-link {
+     font-size: 18px;
+     font-weight: bold;
+     font-family: monospace;
+     margin-left: 400px;
+     margin-bottom: 80px;
+ }
+
+ .follow {
+     padding-bottom: 80px;
+
+ }
+
+ .follow-img img {
+
+     border-radius: 50%;
+     width: 70%;
+     margin-left: 30px;
+ }
+
+ .follow-img-title {
+     margin-top: 10px;
+     font-size: 14px;
+     margin-left: 40px;
+
+ }
+
+ .treatment-sec {
+     background-image: url(../image/corona.png);
+     margin-top: 120px;
+     padding-top: 80px;
+     padding-bottom: 80px;
+     background-color: #2766bb;
+ }
+
+
+
+
+ .be-careful {
+
+     color: rgb(18, 209, 216);
+     font-size: 18px;
+     font-weight: 800;
+     font-family: Arial, Helvetica, sans-serif;
+ }
+
+ .treatment-text {
+
+     font-size: 35px;
+     color: white;
+     font-family: 'Oswald', sans-serif;
+     font-weight: 800;
+     text-transform: uppercase;
+     margin-bottom: 30px;
+ }
+
+ .style-h5 {
+     color: rgb(105, 80, 80);
+     font-weight: bold;
+     margin-bottom: 25px;
+ }
+
+ .p-treatment-style {
+     color: white;
+ }
+
+ .treatment-text-span {
+     color: white;
+     font-weight: bold;
+     font-family: Arial, Helvetica, sans-serif;
+ }
+
+ .self-sec {
+     border-style: ridge;
+     border-radius: 30px;
+     ;
+     padding: 10px;
+ }
+
+ .self-h5 {
+     color: white;
+     margin-left: 40px;
+ }
+
+ .self-care-text {
+
+     color: white;
+     margin-left: 40px;
+     font-family: Arial, Helvetica, sans-serif;
+ }
+
+ .self-ul {
+     list-style: none;
+ }
+
+ .self-ul li {
+     margin-bottom: 8px;
+     color: white
+ }
+
+
+ .round-img img {
+     border-radius: 50%;
+     border: 2px solid;
+     border-color: rgb(13, 167, 179);
+     width: 75%;
+     background-color: white;
+
+ }
+
+ #DO’S{
+     padding-bottom: 100px ;
+     margin-top: 100px;
+     margin-bottom: 80px;
+     background-color: #f7f9fe;
+ }
+
+ .DO’S-DON’TS-banner {
+
+     margin-bottom: 20px;
+ }
+
+ .DO’S-DON’TS-style {
+
+     margin-top: 15px;
+     font-size: 15px;
+     color: rgb(24, 189, 201);
+     font-family: Arial, Helvetica, sans-serif;
+
+ }
+
+ .wrong-sign-1 {
+
+     position: absolute;
+     top: 5px;
+     left: 150px;
+     color: red;
+ }
+
+ .wrong-sign-2 {
+
+     position: absolute;
+     top: 110px;
+     left: 150px;
+     color: red;
+ }
+
+ .wrong-sign-3 {
+
+     position: absolute;
+     top: 214px;
+     left: 150px;
+     color: red;
+ }
+
+ .correct-sign-1 {
+     position: absolute;
+     top: 5px;
+     left: 92px;
+     color: #3dca93;
+
+ }
+
+ .correct-sign-2 {
+     position: absolute;
+     top: 110px;
+     left: 92px;
+     color: #3dca93;
+
+ }
+
+ .correct-sign-3 {
+     position: absolute;
+     top: 215px;
+     left: 92px;
+     color: #3dca93;
+ }
+
+ .pro-img img {
+
+     width: 90%;
+ }
+
+
+ .faq{
+    
+ }
+
+
+
+
+
+
+ #news {
+     margin-top: 100px;
+     padding-top: 50px;
+     padding-bottom: 100px;
+     background-color: rgb(234, 243, 243);
+
+ }
+
+
+
+ .blog-divs {
+     padding: 50px;
+     padding-right: 70px;
+     background-color: #fff;
+     border-radius: 20px;
+ }
+
+ .blog-divs img {
+     width: 150%;
+     position: relative;
+     left: -35px;
+     border-radius: 10px;
+ }
+
+
+ .blog-h5-style {
+     text-align: center;
+     margin-top: 10px;
+     font-size: 16px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: bold;
+     color: rgb(129, 30, 187);
+ }
+
+ .blog-p-style {
+     text-align: center;
+     font-family: Arial, Helvetica, sans-serif
+ }
+
+ .footer-icon {
+     font-size: 25px;
+     margin: 10px;
+     color: white;
+ }
+
+ #footer {
+
+     background-color: #151c2e;
+     background-image: url(../image/corona.png);
+     padding-top: 100px;
+     padding-bottom: 50px;
+
+ }
+
+ .footer-logo-style {
+     color: white;
+     font-weight: bold;
+     font-size: 28px;
+     text-transform: uppercase;
+     font-family: Arial, Helvetica, sans-serif;
+     margin-left: 25px;
+     margin-right: 500px;
+
+ }
+
+ .footer-h4 {
+     color: white;
+ }
+
+ .footer-p-style {
+     color: #b2bfe0;
+     font-family: Arial, Helvetica, sans-serif;
+ }
+
+ .footer-link-style {
+
+     color: #b2bfe0;
+     font-size: 14px;
+ }
+
+
+ .arrow-up {
+     position: fixed;
+     bottom: 10px;
+     right: 10px;
+     font-size: 50px;
+
+
+ }
+
+ @media(max-width : 750px) {
+
+
+     /* respnsive navbar */
+     .navbar-toggler {
+
+
+         position: absolute;
+         right: 0px;
+
+     }
+
+     /* responsive navbar-logo */
+     .logo-style {
+         color: rgba(85, 76, 76, 0.664);
+         font-weight: bold;
+         font-size: 28px;
+         text-transform: uppercase;
+         font-family: Arial, Helvetica, sans-serif;
+         margin-right: 100px;
+     }
+/* responsive f-page  */
+.text-head{
+    margin-left: 0px;
+}
+
+
+.link-for-aboutcovid{
+    display: block;
+
+}
+/* responsive 6 links */
+.six-Links{
+    margin-left: -50px;
+}
+.link{
+    font-size: 16px;
+}
+.links-arrows{
+    float: right;
+}
+     
+/* responsive syptoms sec */
+.style-h2{
+    margin: 0px;
+}
+
+.question-btn,.have-ques{
+    margin-left: 20px;
+    margin-top: 0px;
+}
+
+/* ------------------------------------------------------------------------------- */
+
+.card{
+    margin-bottom:8px;
+}
+
+.img img{
+    width: 30%;
+    margin-left: 200px;
+}
+
+/* responsive of prevention */
+.advice-img img {
+ width: 40%;
+ margin-left: 100px;
+ margin-top: 20px;
+}
+
+.wash-btn{
+    margin-left: 0px;
+}
+
+.link-for-aboutCovid{
+    margin-left: 60px;
+    margin-bottom: 30px;
+}
+
+.style-h3{
+    margin-left: 0px;
+    margin-top: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.wash-hand-link{
+    margin-left: 40px;
+    margin-top: 20px;
+}
+/* -------------------------------------------------------------------------------------- */
+
+/* responsive for self section */
+
+.wrong-banner{
+    position: absolute;
+    right: 0px;
+    margin-top: 300px;
+}
+
+.round-img{
+    width: 50%;
+    display: flex;
+}
+
+
+
+.DO’S-DON’TS-style{
+    font-size: 12px;
+}
+.wrong-sign-1{ 
+    left :100px;
+}
+.wrong-sign-2{ 
+    left :100px;
+    top: 75px;
+}
+.wrong-sign-3{ 
+    left :100px;
+    top: 145px;
+}
+
+
+.correct-sign-1,.correct-sign-2,.correct-sign-3{
+    left: 60px;
+}
+
+.correct-banner{
+ margin-top: 50px;
+}
+
+/* ------------------------------------------------------------ */
+/* responsive f-page link */
+     .link-for-aboutCovid{
+         display: block;
+     }
+     
+
+/* responsive f-page button */
+     .how-to-protect-btn{
+         margin-left: 50px;
+         margin-bottom: 10px;
+     }
+
+     .text-num{
+         margin: 0px;
+     }
+     /* banner of num */
+     .banner-of-num {
+        margin-top: 50px;
+        margin-left: 100px ;
+        display: block;
+        
+     }
+
+     .number{
+        font-size: 18px;
+        
+
+     }
+     /* responsive blog-banner */
+
+     .blog-divs {
+         margin-bottom: 20px;
+         margin-left: 10px;
+     }
+
+     /* responsive blog-images */
+
+     .blog-divs img {
+         width: 150%;
+         position: relative;
+         left: -40px;
+         border-radius: 10px;
+     }
+
+     #news {
+         width: 100%;
+         padding-right: 40px;
+     }
+
+
+
+ }
